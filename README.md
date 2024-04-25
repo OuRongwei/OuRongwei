@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OuRongwei
 - 👀 I’m interested in Data structure and algorithm
-- 🌱 I’m currently learning InfluxDB
+- 🌱 I’m currently learning WPF
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 2869495729@qq.com
 
